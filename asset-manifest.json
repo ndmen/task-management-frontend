@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://ndmen.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://ndmen.github.io/task-management-frontend/static/js/main.bb36ac6d.chunk.js",
+    "main.js.map": "https://ndmen.github.io/task-management-frontend/static/js/main.bb36ac6d.chunk.js.map",
+    "runtime~main.js": "https://ndmen.github.io/task-management-frontend/static/js/runtime~main.4a2e909d.js",
+    "runtime~main.js.map": "https://ndmen.github.io/task-management-frontend/static/js/runtime~main.4a2e909d.js.map",
+    "static/js/2.a315a08f.chunk.js": "https://ndmen.github.io/task-management-frontend/static/js/2.a315a08f.chunk.js",
+    "static/js/2.a315a08f.chunk.js.map": "https://ndmen.github.io/task-management-frontend/static/js/2.a315a08f.chunk.js.map",
+    "index.html": "https://ndmen.github.io/task-management-frontend/index.html",
+    "precache-manifest.f31d4785d31738f200ce275aa8683226.js": "https://ndmen.github.io/task-management-frontend/precache-manifest.f31d4785d31738f200ce275aa8683226.js",
+    "service-worker.js": "https://ndmen.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://ndmen.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+  }
+}
